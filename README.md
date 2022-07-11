@@ -22,7 +22,6 @@ Docking
 * **GNINA 1.0: molecular docking with deep learning** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)
 * **InteractionGraphNet: A Novel and Efficient Deep Graph Representation Learning Framework for Accurate Protein−Ligand Interaction Predictions** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.1c01830)
 * **AI-Bind: Improving Binding Predictions for Novel Protein Targets and Ligands** [[Paper]](https://arxiv.org/abs/2112.13168)
-* **Predicting Protein–Ligand Docking Structure with Graph Neural Network** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00127)
 * **Interpretable Drug Target Prediction Using Deep Neural Representation** [[Paper]](https://www.ijcai.org/proceedings/2018/468)
 * **Predicting drug–protein interaction using quasi-visual question answering system** [[Paper]](https://www.nature.com/articles/s42256-020-0152-y)
 * **DEEP LEARNING MODEL FOR FLEXIBLE AND EFFICIENT PROTEIN-LIGAND DOCKING** [[Paper]](https://openreview.net/forum?id=WNwsnE81meC)
