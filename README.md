@@ -19,7 +19,7 @@ Molecular/Protein Generation
 * **A Score-based Geometric Model for Molecular Dynamics Simulations** [[Paper]](https://arxiv.org/abs/2204.08672)
 * **Equivariant Diffusion for Molecule Generation in 3D** [[Paper]](https://arxiv.org/abs/2203.17003)
 
-Ligand-Protein Docking
+Docking
 ----------
 
 * **GNINA 1.0: molecular docking with deep learning** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00522-2)
@@ -28,6 +28,7 @@ Ligand-Protein Docking
 * **Interpretable Drug Target Prediction Using Deep Neural Representation** [[Paper]](https://www.ijcai.org/proceedings/2018/468)
 * **Predicting drug–protein interaction using quasi-visual question answering system** [[Paper]](https://www.nature.com/articles/s42256-020-0152-y)
 * **DEEP LEARNING MODEL FOR FLEXIBLE AND EFFICIENT PROTEIN-LIGAND DOCKING** [[Paper]](https://openreview.net/forum?id=WNwsnE81meC)
+* **INDEPENDENT SE(3)-EQUIVARIANT MODELS FOR END-TO-END RIGID PROTEIN DOCKING** [[Paper]](https://arxiv.org/abs/2111.07786)
 * **EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction**  [[Paper]](https://arxiv.org/abs/2202.05146)
 * **TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.06.06.495043v1)
 
