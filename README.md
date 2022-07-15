@@ -1,6 +1,6 @@
-# :blush: awesome-protein
+# :blush: awesome-bioinformatics
 
-A collection of papers studying proteins using Deep Learning.
+A collection of papers studying bioinformatics using Deep Learning.
 
 **Please feel free to submit a pull request if you want to add good papers.**
 
@@ -9,12 +9,15 @@ Class
 
 * **Stanford CS-279 Computational Biology: Structure and Organization of Biomolecules and Cells** [[Website]](https://web.stanford.edu/class/cs279/index)
 
-Molecular Conformer Generation
+Molecular/Protein Generation
 ----------
 
 * **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** [[Paper]](https://arxiv.org/abs/2203.02923)
 * **Torsional Diffusion for Molecular Conformer Generation** [[Paper]](https://arxiv.org/abs/2206.01729)
-
+* **Score-based Generative Models for Calorimeter Shower Simulation** [[Paper]](https://arxiv.org/abs/2206.11898)
+* **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**(https://arxiv.org/abs/2205.15019)
+* **A Score-based Geometric Model for Molecular Dynamics Simulations** [[Paper]](https://arxiv.org/abs/2204.08672)
+* **Equivariant Diffusion for Molecule Generation in 3D** [[Paper]](https://arxiv.org/abs/2203.17003)
 
 Ligand-Protein Docking
 ----------
