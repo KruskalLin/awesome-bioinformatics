@@ -15,7 +15,7 @@ Molecular/Protein Generation
 * **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** [[Paper]](https://arxiv.org/abs/2203.02923)
 * **Torsional Diffusion for Molecular Conformer Generation** [[Paper]](https://arxiv.org/abs/2206.01729)
 * **Score-based Generative Models for Calorimeter Shower Simulation** [[Paper]](https://arxiv.org/abs/2206.11898)
-* **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**(https://arxiv.org/abs/2205.15019)
+* **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models** [[Paper]](https://arxiv.org/abs/2205.15019)
 * **A Score-based Geometric Model for Molecular Dynamics Simulations** [[Paper]](https://arxiv.org/abs/2204.08672)
 * **Equivariant Diffusion for Molecule Generation in 3D** [[Paper]](https://arxiv.org/abs/2203.17003)
 
